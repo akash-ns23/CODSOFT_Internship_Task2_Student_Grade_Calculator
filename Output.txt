@@ -1,0 +1,14 @@
+Enter the number of subjects: 6
+Enter marks for Subject 1 (out of 100): 85
+Enter marks for Subject 2 (out of 100): 90
+Enter marks for Subject 3 (out of 100): 92
+Enter marks for Subject 4 (out of 100): 88
+Enter marks for Subject 5 (out of 100): 98
+Enter marks for Subject 6 (out of 100): 95
+
+----- Result -----
+Total Marks = 548
+Average Percentage = 91.33333333333333%
+Grade = A+
+
+=== Code Execution Successful ===
